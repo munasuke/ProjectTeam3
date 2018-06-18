@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:Prototype/Assets/work_munaoka/etc.meta:Prototype/Assets/work_munaoka/etc.meta
+guid: 9e0b4058f0ca12c46999e28c78824808
+folderAsset: yes
+timeCreated: 1528076374
+=======
+guid: 0dffbc4f621f25f48b93e180366f3ab2
+folderAsset: yes
+timeCreated: 1528073568
+>>>>>>> cefee586a94b9d64d41e1daacd5d161ea82e317f:Prototype/Assets/Scene/etc.meta:Prototype/Assets/Scene/etc.meta
+licenseType: Free
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
