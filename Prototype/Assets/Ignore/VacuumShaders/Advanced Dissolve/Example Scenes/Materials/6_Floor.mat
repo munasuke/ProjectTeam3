@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 6_Floor
+  m_Shader: {fileID: 4800000, guid: 0eb4419a161c539409c94325c8e86336, type: 3}
+  m_ShaderKeywords: _DISSOLVEALPHASOURCE_TWO_CUSTOM_MAPS _DISSOLVEALPHATEXTUREBLEND_MULTIPLY
+    _DISSOLVEGLOBALCONTROL_NONE _DISSOLVEMASK_COUNT_FOUR _DISSOLVEMASK_SPHERE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DissolveEdgeRamp:
+        m_Texture: {fileID: 2800000, guid: 433b0fb58eaa5e9408eadc6b40d1cc0f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DissolveMap1:
+        m_Texture: {fileID: 2800000, guid: 5c547a6cb3b2bbd4692160087d270016, type: 3}
+        m_Scale: {x: 2, y: 2}
+        m_Offset: {x: 0, y: 0}
+    - _DissolveMap2:
+        m_Texture: {fileID: 2800000, guid: 0eea589f830e79c43b97e802a4a3ab0f, type: 3}
+        m_Scale: {x: 2, y: 2}
+        m_Offset: {x: 0.5, y: 0.5}
+    - _DissolveMap3:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecularMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BumpScale: 1
+    - _Cull: 0
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DissolveAlphaSource: 2
+    - _DissolveAlphaTextureBlend: 0
+    - _DissolveAxisInvert: -1
+    - _DissolveCutoff: 0.5
+    - _DissolveCutoffAxis: 0
+    - _DissolveEdgeSize: 0.5
+    - _DissolveGIStrength: 1
+    - _DissolveGlobalControl: 0
+    - _DissolveMask: 4
+    - _DissolveMaskOffset: 0
+    - _DissolveMaskSphereRadius: 0.75
+    - _DissolveMask_Count: 3
+    - _DissolveNoiseStrength: 0
+    - _DissolveTriplanar: 0
+    - _DissolveTriplanarMainMapTiling: 1
+    - _DissolveTriplanarMappingSpace: 0
+    - _DissolveUVSet: 0
+    - _DstBlend: 0
+    - _GlossMapScale: 1
+    - _Glossiness: 0.821
+    - _GlossyReflections: 1
+    - _MainTexCutoff: 0
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _SmoothnessTextureChannel: 0
+    - _Specular: 0.541
+    - _SpecularAlpha: 1
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _UVSec: 0
+    - _ZWrite: 1
+    m_Colors:
+    - _Color: {r: 0.003, g: 0.003, b: 0.003, a: 1}
+    - _DissolveEdgeColor: {r: 0, g: 0.92413807, b: 2, a: 1}
+    - _DissolveMap1_Scroll: {r: 0.5, g: 0, b: 0, a: 0}
+    - _DissolveMap2_Scroll: {r: -0.5, g: 0, b: 0, a: 0}
+    - _DissolveMap3_Scroll: {r: 0, g: 0, b: 0, a: 0}
+    - _DissolveMaskPlaneNormal: {r: 0, g: -0.19242477, b: 0.9813118, a: 0}
+    - _DissolveMaskPosition: {r: -2.93, g: -0.34, b: 3.26, a: 0}
+    - _Dissolve_ObjectWorldPos: {r: 0, g: 0, b: 0, a: 0}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}
