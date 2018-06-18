@@ -35,6 +35,8 @@ sysinfo.txt
 *.apk
 *.unitypackage
 
+Prototype/Assets/Library/*
+
 Prototype/Assets/Ignore/*
 Prototype/Assets/ooemain.unity
 Prototype/Assets/ooemain.unity.meta
