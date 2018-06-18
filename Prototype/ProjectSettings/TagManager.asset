@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Goal
+  - Start
+  - Panel
+  - fuse
+  - fuse_after
+  - fuse_centor
+  - Wall
+  - trigger
+  - tip
+  - Panel_rota
+  - SpeedButtn
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Panels
+  - Fuses
+  - Video
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Video
+    uniqueID: 3251185553
+    locked: 0
+  - name: UI
+    uniqueID: 2246687685
+    locked: 0
